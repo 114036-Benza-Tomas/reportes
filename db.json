@@ -8,7 +8,7 @@
     "mayorista": 10,
     "minorista": 30,
     "pendiente": 14,
-    "entregado": 26
+    "entregado": 26,
     "productos":[
       {
         "producto": "Clavo",
