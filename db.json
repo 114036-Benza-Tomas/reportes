@@ -1,4 +1,5 @@
-data: [
+{
+  data: [
   {
     monto: 3000,
     total_ventas: 40,
@@ -24,3 +25,4 @@ data: [
     ]
   }
 ]
+}
